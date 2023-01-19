@@ -7,7 +7,7 @@
 
 ## Tentative Schedule
 ### Basic recommender system and Graph Neural Network
-| Year | Paper | Short | Presenter | slides |
+| Year | Paper | Short | Presenter |
 | :---: | --- | --- | --- | --- |
 | 2016 | [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)| GCN | 김이삭 | [Slide](./slides/GCN.pdf) |
 | 2014 | [DeepWalk: Online Learning of Social Representations](https://arxiv.org/abs/1403.6652)| Deepwalk | 임서현 | [Slide](./slides/Deepwalk.pdf) |
