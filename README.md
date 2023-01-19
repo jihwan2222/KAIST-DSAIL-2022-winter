@@ -1,6 +1,4 @@
 # 2022-winter-internship
- 
-<img src="./slides/title.png" alt="drawing" width="80%"/>
 
 ## Data Science and Artificial Intelligence Laboratory (DSAIL)
 - [Official Laboratory Homepage (Website)](http://dsail.kaist.ac.kr/)
